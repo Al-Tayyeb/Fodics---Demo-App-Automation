@@ -25,7 +25,7 @@ Follow these steps to set up and run the automation tests:
 **Clone the Repository**
 
 ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Al-Tayyeb/Fodics---Demo-App-Automation.git
    cd your-repo
 ```
 
